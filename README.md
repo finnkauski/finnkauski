@@ -1,16 +1,17 @@
-### Hi there 👋
+# Art Eidukas
 
-<!--
-**finnkauski/finnkauski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Software, Data, Art, Music
 
-Here are some ideas to get you started:
+Looking for some open source colab! ⭐
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Pragmatic software and data person with a background in Economic Statistics,
+interest in software development and a delivery-focused attitude towards
+business problems.
+
+iwiivi@gmail.com, +44 7562 898 069
+
+location: London, E2 9QG
+
+blog: https://finnkauski.com
+
+resume: https://finnkauski.github.io/resume
