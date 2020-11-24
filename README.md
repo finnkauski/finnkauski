@@ -8,7 +8,7 @@ business problems.
 
 Looking for some open source colab! ⭐ 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=finnkauski&show_icons=true&theme=radical)
 
 ---
 
