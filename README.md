@@ -8,7 +8,14 @@ business problems.
 
 Looking for some open source colab! ⭐ 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=finnkauski&show_icons=true&theme=radical)
+## Stats
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=finnkauski&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=finnkauski&layout=compact" />
+</a>
 
 ---
 
