@@ -10,9 +10,8 @@ Looking for some open source colab! ⭐
 
 ## Stats
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=finnkauski&show_icons=true&count_private=true&theme=radical" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=finnkauski&langs_count=8&hide=javascript,css,html,jupyter notebook&layout=compact" />
 
 ---
 
-[My blog](https://finnkauski.com) | [Full resume](https://finnkauski.github.io/resume)
+[Full resume](https://finnkauski.github.io/resume)
 
