@@ -7,4 +7,4 @@ problems.
 
 Interests in low-level computing, ML, speed, efficiency and actually deploying ML.
 
-[Visit Me](definitelyartful.me)
+[Visit Me](https://definitelyartful.me)
