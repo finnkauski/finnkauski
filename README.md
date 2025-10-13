@@ -7,5 +7,4 @@ problems.
 
 Interests in low-level computing, ML, speed, efficiency and actually deploying ML.
 
-[Full resume](https://finnkauski.github.io/resume)
-
+[Visit Me](definitelyartful.me)
